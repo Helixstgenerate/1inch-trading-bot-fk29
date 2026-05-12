@@ -1,4 +1,4 @@
-# 
+# best 1inch trading bot Plugin | cross-chain-arbitrage + slippage-control is the best 1inch trading bot, featuring cross-chain-arbitrage and slippage-control. Smart, fast, and
 
 
 
